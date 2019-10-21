@@ -1,3 +1,7 @@
+.DS_Store
+
+lib/pixelation.js
+
 # Logs
 logs
 *.log
